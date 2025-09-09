@@ -26,6 +26,11 @@
 <!-- STATUS:START -->
 | Item | Key | Status |
 |---|---|---|
+| Capstone-01 — Find a Team [#4](https://github.com/csci4208-sandbox/test-roadmap-maker-v02/issues/4) | `capstone-01` | open |
+| Lab-01 — HTML-first Interactive Game (minimal JS) [#1](https://github.com/csci4208-sandbox/test-roadmap-maker-v02/issues/1) | `lab-01` | open |
+| Lab-02 — CSS: Crash Course [#2](https://github.com/csci4208-sandbox/test-roadmap-maker-v02/issues/2) | `lab-02` | open |
+| Lab-03 — Bootstrap: Responsive Portfolio [#5](https://github.com/csci4208-sandbox/test-roadmap-maker-v02/issues/5) | `lab-03` | open |
+| Project-01 — Interactive Game in HTML & CSS [#3](https://github.com/csci4208-sandbox/test-roadmap-maker-v02/issues/3) | `project-01` | closed |
 <!-- STATUS:END -->
 
 
